@@ -1,0 +1,26 @@
+{
+  "name": "langbot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "install": "tsc",
+    "invoke": "tsc && node build/src/"
+  },
+  "dependencies": {
+    "babel-polyfill": "^6.26.0",
+    "bunyan": "^1.8.12",
+    "core-js": "^3.6.1",
+    "discord.js": "discordjs/discord.js",
+    "fp-ts": "^2.3.1",
+    "hackerearth-node": "^2.3.9",
+    "lodash": "^4.17.15",
+    "remark-parse": "^7.0.2",
+    "unified": "^8.4.2",
+    "yargs": "^15.0.2"
+  },
+  "devDependencies": {
+    "@types/bunyan": "^1.8.6",
+    "@types/lodash": "^4.14.155"
+  }
+}
