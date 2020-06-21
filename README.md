@@ -1,5 +1,16 @@
 # lambdabot
 
+A discord bot that can compile and run code.
+
+## Example
+
+```
+=eval JAVASCRIPT_NODE
+\`\`\`
+console.log("hello!")
+\`\`\`
+```
+
 ## Usage
 
 ```
