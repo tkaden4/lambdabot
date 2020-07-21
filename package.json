@@ -14,7 +14,7 @@
     "discord.js": "discordjs/discord.js",
     "fp-ts": "^2.3.1",
     "hackerearth-node": "^2.3.9",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "remark-parse": "^7.0.2",
     "unified": "^8.4.2",
     "yargs": "^15.0.2"
